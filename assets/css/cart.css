@@ -87,5 +87,6 @@ th:last-child {
 @media (max-width: 568px) {
     .small {
         padding: 50px 15px;
+        height: 100vh;
     }
 }
